@@ -1,5 +1,11 @@
 # Patient API Documentation
 
+### Day2 - Additions
+- Added new routes for Updating and Deleting Patients
+- Added User routes(register/login)
+- Added AuthGaurd for protected routes
+- Added Dockerfile for deployment
+
 ### Day1 - TODOS
 - Create Routes for API
 - Install Middleware for Express
